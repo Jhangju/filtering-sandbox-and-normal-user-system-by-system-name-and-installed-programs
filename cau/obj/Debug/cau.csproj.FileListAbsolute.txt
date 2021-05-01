@@ -1,0 +1,6 @@
+C:\Users\osama\source\repos\cau\cau\bin\Debug\cau.exe.config
+C:\Users\osama\source\repos\cau\cau\bin\Debug\cau.exe
+C:\Users\osama\source\repos\cau\cau\bin\Debug\cau.pdb
+C:\Users\osama\source\repos\cau\cau\obj\Debug\cau.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\cau\cau\obj\Debug\cau.exe
+C:\Users\osama\source\repos\cau\cau\obj\Debug\cau.pdb
