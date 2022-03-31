@@ -3,11 +3,11 @@ This is simple project which filter virtual sandbox from normal system by checki
 <a href="https://antiscan.me/scan/new/result?id=qBY3TBvUJEgl">Virus Scan Results</a> 
 
 				
-<strong>File Name:</strong> cau.exe<br / >
-<strong>Scan Date:</strong> 31-03-2022 10:54:36<br \ ><br \ >
-<strong>Detected by:</strong> 0/26<br \ ><br \ >
+<h4>File Name:</h4> cau.exe<h >
+<h4>Scan Date:</h4> 31-03-2022 10:54:36<hr >
+<h4>Detected by:</h4> 0/26<hr>
 
-<strong>MD5:</strong> 27e0dc94e9d5161640c14c3fb80b037d
+<h4>MD5:</h4> 27e0dc94e9d5161640c14c3fb80b037d
 <br \ ><br \ >
 <strong>Checked by AntiScan.Me:</strong> https://antiscan.me/scan/new/result?id=qBY3TBvUJEgl
 <br \ ><br \ >
